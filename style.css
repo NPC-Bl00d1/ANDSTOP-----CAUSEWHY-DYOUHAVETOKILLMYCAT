@@ -1,0 +1,57 @@
+body{
+
+    background-size: cover;
+    
+    }
+
+.heading{
+
+font-size: 23px;
+width:100%;
+margin:0px;
+background-color:#594c41;
+color:white;
+border: solid black 3px;
+}
+
+#start{
+
+background-color: #779c6e;
+font-size: 20px;
+color:white;
+border: solid black 3px;
+}
+
+#numobject{
+
+background-color: #e3b41b;
+font-size: 18px;
+border: solid black 3px;
+}
+
+#status{
+
+    background-color: #4d4691;
+    font-size: 18px;
+    border: solid black 3px;
+    }
+
+#mine{
+
+position:fixed;
+bottom:0;
+width:100%;
+font-size: 20px;
+background-color: #9a5a9c;
+color:white;
+border: solid black 3px;
+
+}
+
+canvas{
+
+border:  solid white 2px;
+border-radius: 10px;
+margin-top: 130px;
+box-shadow:5px 5px 5px white;
+}
