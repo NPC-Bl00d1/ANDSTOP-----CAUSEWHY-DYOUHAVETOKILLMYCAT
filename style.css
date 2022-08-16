@@ -16,7 +16,7 @@ border: solid black 3px;
 
 #start{
 
-background-color: #779c6e;
+background-color: #a84545;
 font-size: 20px;
 color:white;
 border: solid black 3px;
@@ -50,8 +50,8 @@ border: solid black 3px;
 
 canvas{
 
-border:  solid white 2px;
+border:  solid #a8195e 2px;
 border-radius: 10px;
 margin-top: 130px;
-box-shadow:5px 5px 5px white;
+box-shadow:5px 5px 5px #a8195e;
 }
